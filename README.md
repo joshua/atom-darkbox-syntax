@@ -1,6 +1,9 @@
+<p align="center"
 # Atom Darkbox syntax
-![Atom Darkbox Logo](https://raw.githubusercontent.com/thekhegay/atom-darkbox-syntax/master/atom-darkbox-syntax-logo.svg?sanitize=true)
-<img src="https://raw.githubusercontent.com/thekhegay/atom-darkbox-syntax/master/atom-darkbox-syntax-logo.svg?sanitize=true">
+<img title="Atom Darkbox syntax" alt="Atom Darkbox syntax logo" width="360px" src="https://raw.githubusercontent.com/thekhegay/atom-darkbox-syntax/master/atom-darkbox-syntax-logo.svg?sanitize=true">
 
 ## Description
 Incredibly clear syntax for Atom
+
+## License
+Atom Darkbox syntax is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
